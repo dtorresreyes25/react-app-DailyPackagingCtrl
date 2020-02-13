@@ -1,1 +1,1 @@
-App for tracking packaging process and daily productivity
+App for tracking daily packaging process productivity.
